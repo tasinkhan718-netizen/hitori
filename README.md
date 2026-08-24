@@ -367,12 +367,12 @@ All bot settings are managed in [`settings.js`](https://github.com/nazedev/hitor
 
 **Owner number**
 ```js
-global.owner = ["628xxxxxxxxxx"];
+global.owner = ["918209211924"];
 ```
 
 **Bot identity**
 ```js
-global.botname = "Hitori Bot";
+global.botname = "Tasin TNB";
 global.author = "Nazedev";
 global.packname = "Bot WhatsApp";
 ```
@@ -397,7 +397,7 @@ global.money = { free: 10000, premium: 1000000, vip: 10000000 };
 **Pairing code and bot number**
 ```js
 global.pairing_code = true;
-global.number_bot = "628xxxxxxxxxx";
+global.number_bot = "918209211924";
 ```
 
 ---
